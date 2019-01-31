@@ -1,4 +1,5 @@
 # Easy
+# Easy
 # 1
 # name = input('Введите имя ')
 # print('Ваше зовут ' + name)
